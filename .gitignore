@@ -11,3 +11,13 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+
+wp-content/backupwordpress*
+wp-content/plugins/hello.php
+
+/readme.html
+/liesmich.html
+/license.txt
+/wp-config-sample.php
+.DS_Store
+Thumbs.db
